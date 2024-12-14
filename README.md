@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @luc1k1
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning php and python
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python and Calculus
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -
+- 📫 How to reach me  -
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: -
+- ⚡ Fun fact: Im new in machine learning
 
 <!---
 luc1k1/luc1k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

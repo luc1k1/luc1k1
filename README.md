@@ -67,11 +67,18 @@
 </p>
 
 ---
-
-### 📊 Stats
+## 🏆 My GitHub Activity
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luc1k1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc1k1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luc1k1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luc1k1&theme=radical" alt="GitHub Activity Graph">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc1k1&theme=radical" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=radical" alt="Most Commit Language">
+</p>

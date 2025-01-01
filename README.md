@@ -67,18 +67,21 @@
 </p>
 
 ---
-## 🏆 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luc1k1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luc1k1&theme=radical" alt="GitHub Activity Graph">
-</p>
-
-
+## 📊 GitHub Profile Details
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc1k1&theme=radical" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=radical" alt="Most Commit Language">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc1k1&theme=radical" alt="Top Languages by Repos">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=radical" alt="Top Languages by Commits">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luc1k1&theme=radical" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luc1k1&theme=radical&utcOffset=4" alt="Productive Time">
+</p>
+
+
+

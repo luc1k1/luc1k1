@@ -1,41 +1,67 @@
 <h1 align="center">Hi 👋, I'm luc1k1</h1>
-<h3 align="center">A passionate programmer and ML enthusiast</h3>
+<h3 align="center">A passionate programmer focusing on Python, Git, C, and a bit of C#</h3>
 
 <p align="center">
-  <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1495562974-132e9ffc4a5621a06de56324cb10f045.jpeg" alt="Cool Banner" />
-
+  <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1495562974-132e9ffc4a5621a06de56324cb10f045.jpeg" alt="Banner" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luc1k1&label=Profile%20views&color=0e75b6&style=flat" alt="luc1k1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luc1k1&label=Profile%20views&color=blueviolet&style=flat" alt="luc1k1" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Python programming**
+---
 
-- 🏋️ I enjoy working out and improving my fitness alongside coding.
+### 🛠️ About Me
+- 🌱 I’m constantly improving my skills in **Python**, **C**, **Git**, and **C#**.
+- 📂 I enjoy experimenting with branches and repositories for better project management.
+- 🔍 Always exploring new ways to simplify complex problems.
 
-- 💬 Ask me about **Python, Machine Learning, and problem-solving**
+---
 
+### 🧩 Interesting Facts About My GitHub
+- 🚀 I actively use branching to manage features and organize code effectively.
+- 📈 My repositories include solutions for programming challenges, tool scripts, and fun experiments.
+- 🛠️ Tools I use: `Git for version control`, `VSCode for coding`, and `Python for scripting`.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📞 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/real_code_for_me" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
+---
+
+### ⚙️ Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luc1k1&show_icons=true&locale=en&layout=compact" alt="luc1k1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luc1k1&show_icons=true&locale=en" alt="luc1k1" /></p>
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luc1k1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luc1k1&" alt="luc1k1" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luc1k1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc1k1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+

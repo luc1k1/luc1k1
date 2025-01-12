@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+luc1k1;Welcome+to+my+GitHub+Profile!" alt="Dynamic Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+luc1k1;Welcome+to+my+GitHub+Profile!" alt="Dynamic Welcome" />
 </h1>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luc1k1&label=👁‍🗨+Profile+Views&style=flat-square&color=ff69b4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=luc1k1&label=👁‍🗨+Profile+Views&style=flat-square&color=000000" alt="Profile Views" />
 </p>
 
 ---
@@ -70,17 +70,17 @@
 ## 📊 GitHub Profile Details
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc1k1&theme=radical" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc1k1&theme=highcontrast" alt="Profile Details">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc1k1&theme=radical" alt="Top Languages by Repos">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=radical" alt="Top Languages by Commits">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc1k1&theme=highcontrast" alt="Top Languages by Repos">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=highcontrast" alt="Top Languages by Commits">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luc1k1&theme=radical" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luc1k1&theme=radical&utcOffset=4" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luc1k1&theme=highcontrast" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luc1k1&theme=highcontrast&utcOffset=4" alt="Productive Time">
 </p>
 
 

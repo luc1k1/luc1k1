@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1495562974-132e9ffc4a5621a06de56324cb10f045.jpeg" alt="Banner" />
+  <img src="https://i.pinimg.com/736x/3b/45/ae/3b45ae2f719dd5705d965ad2da4d2ca2.jpg" alt="Banner" />
 </p>
 
 <p align="center">

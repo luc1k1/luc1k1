@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3b/45/ae/3b45ae2f719dd5705d965ad2da4d2ca2.jpg" alt="Banner" />
+  <img src="https://i.pinimg.com/736x/3e/2d/bf/3e2dbf9e49af51014f5f262d9f5557c4.jpg" alt="Banner" />
 </p>
 
 <p align="center">

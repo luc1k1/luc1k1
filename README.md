@@ -22,7 +22,6 @@
 
 ### 🌟 About Me
 - **🌱 Growth:** I’m constantly improving my skills in **Python**, **C**, **Git**, and **C#**.
-- **🎓 Education:** I’m currently a student.
 - **📂 Creativity:** I enjoy experimenting with branches and repositories for better project management.
 - **🔍 Curiosity:** Always exploring new ways to simplify complex problems and learn something new.
 

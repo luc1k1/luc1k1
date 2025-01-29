@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-178600?style=flat&logo=csharp&logoColor=white" alt="C#" />
 </h3>
 
 <p align="center">

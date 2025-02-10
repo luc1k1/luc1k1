@@ -19,25 +19,41 @@
 
 ---
 
-### 🌟 About Me
-- **🌱 Growth:** I’m constantly improving my skills in **Python**, **C**, **Git**, and **C#**.
-- **📂 Creativity:** I enjoy experimenting with branches and repositories for better project management.
-- **🔍 Curiosity:** Always exploring new ways to simplify complex problems and learn something new.
+##  About Me
+- **Growth:** I’m constantly improving my skills in **Python**, **C**, **Git**.
+- **Creativity:** I enjoy experimenting with branches and repositories for better project management.
+- **Curiosity:** Always exploring new ways to simplify complex problems and learn something new.
+
+##  My Journey to Machine Learning
+- **Goal:** I aspire to become an **ML Engineer** and start working.
 
 ---
 
-### 💡 Interesting Facts About My GitHub
-- **🚀 Branching Expert:** Actively using branching to manage features and organize code efficiently.
-- **📈 Challenges:** My repositories include solutions for programming challenges, tool scripts, and fun experiments.
-- **🛠️ Toolkit:** Tools I use:
-  - **Git** for version control.
-  - **JetBrains PyCharm** for coding.
-  - **Python** for scripting and automation.
+##  My Projects
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44780846/187814627-77644e1a-643f-4f8d-8ecf-9f5ab74cfbaf.gif" width="100%">
+</p>
+
+| 🔹 Project Name | 📝 Description | 🛠 Tech Stack | 🔗 Link |
+|---------------|--------------|-------------|--------|
+| 🖱 **Auto Clicker** | A simple auto clicker script | Python | [🔗 Repo](https://github.com/luc1k1/auto-clicker) |
+| 🔢 **Calculator (C)** | The most normal calculator in C | C | [🔗 Repo](https://github.com/luc1k1/calc.c) |
+| 🍔 **Calorie Calculator** | A GUI-based calorie calculator using OpenFoodFacts API | Python | [🔗 Repo](https://github.com/luc1k1/calorie-calculator) |
+| 💰 **Currency Converter** | A simple currency converter | Python | [🔗 Repo](https://github.com/luc1k1/Currency-Converter) |
+| 🔊 **Finger Volume Control** | Control system volume using finger gestures | Python | [🔗 Repo](https://github.com/luc1k1/finger-volume-control) |
+| 🎲 **Guess Number Game** | Simple number guessing game | Python | [🔗 Repo](https://github.com/luc1k1/guess_number) |
+| ✋ **Hand Tracking** | Real-time hand tracking and finger bending detection | Python, OpenCV, MediaPipe | [🔗 Repo](https://github.com/luc1k1/hand-tracking) |
+| 🔍 **KGQA Project** | A Knowledge Graph Question Answering system | Python | [🔗 Repo](https://github.com/luc1k1/kgqa-project) |
+| 📰 **News Aggregator** | A simple news aggregation tool | Python | [🔗 Repo](https://github.com/luc1k1/news_aggregator) |
+| 🔑 **Password Generator** | Just a simple password generator | Python | [🔗 Repo](https://github.com/luc1k1/password-generator) |
+| 📉 **Price Tracker Bot** | Tracks Amazon prices and sends Telegram alerts | Python | [🔗 Repo](https://github.com/luc1k1/Price-Tracker-Bot) |
+| ✅ **Simple To-Do List** | A minimal To-Do list app with Tkinter | Python, Tkinter | [🔗 Repo](https://github.com/luc1k1/Simple-To-Do-List) |
 
 ---
 
-### 📞 Connect with Me
-<p align="left">
+## 📞 Connect with Me
+<p align="center">
 <a href="https://www.instagram.com/real_code_for_me" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
 </a>
@@ -45,8 +61,8 @@
 
 ---
 
-### ⚙️ Languages and Tools
-<p align="left">
+## ⚙ Languages and Tools
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
@@ -62,21 +78,23 @@
 </p>
 
 ---
+
 ## 📊 GitHub Profile Details
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc1k1&theme=highcontrast" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc1k1&theme=tokyonight" alt="Profile Details">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc1k1&theme=highcontrast" alt="Top Languages by Repos">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=highcontrast" alt="Top Languages by Commits">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc1k1&theme=tokyonight" alt="Top Languages by Repos">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc1k1&theme=tokyonight" alt="Top Languages by Commits">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luc1k1&theme=highcontrast" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luc1k1&theme=highcontrast&utcOffset=4" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luc1k1&theme=tokyonight" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luc1k1&theme=tokyonight&utcOffset=4" alt="Productive Time">
 </p>
 
+---
 
-
+💙 **If you like my projects, consider starring ⭐ them!** 🚀

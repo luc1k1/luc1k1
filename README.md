@@ -25,7 +25,7 @@
 - **Curiosity:** Always exploring new ways to simplify complex problems and learn something new.
 
 ##  My Journey to Machine Learning
-- **Goal:** I aspire to become an **ML Engineer** and start working.
+- **Goal:** I aspire to become an **Software engineer ML:** and start working.
 
 ---
 

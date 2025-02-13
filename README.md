@@ -29,7 +29,7 @@
 
 ---
 
-##  My Projects
+##  ⭐️My Projects
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44780846/187814627-77644e1a-643f-4f8d-8ecf-9f5ab74cfbaf.gif" width="100%">

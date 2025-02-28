@@ -1,8 +1,12 @@
 
-Man,i hate this people
 
+<p align="center">
+I hate this people.
+Machine Learning Engineer
+</p>
+<p align="center">
   <img src="https://moe-counter.glitch.me/get/@:luc1k1?theme=rule34" alt="Profile Views"/>
-
+</p>
 
 
 <p align="center">

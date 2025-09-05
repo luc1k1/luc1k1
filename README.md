@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <b><i>💙 does she love me? 💙</i></b>
+  <b><i>💙 i hate you all 💙</i></b>
 </p>

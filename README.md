@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=70AFFF&center=true&vCenter=true&width=400&lines=Machine+Learning+Engineer;i+hate+this+people;💙+does+she+love+me+💙">
+  <img src="https://readme-typing-svg.herokuapp.com?color=70AFFF&center=true&vCenter=true&width=400&lines=Machine+Learning+Engineer">
 </p>
 
 <p align="center">

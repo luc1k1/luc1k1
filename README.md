@@ -1,7 +1,7 @@
 <h1 align="center">🌌 Luc1k1</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=70AFFF&center=true&vCenter=true&width=400&lines=Machine+Learning+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=400&lines=Machine+Learning+Engineer" />
 </p>
 
 <p align="center">

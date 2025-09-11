@@ -33,7 +33,7 @@
 
 ### 🌐 Connect
 <p align="center">
-  <a href="https://twitter.com/leroy_ceo">
+  <a href="https://twitter.com/strangertao">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FFFFFF">
   </a>
   <a href="mailto:leroyceo@yahoo.com">

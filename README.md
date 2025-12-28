@@ -24,3 +24,11 @@
   </a>
 </p>
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luc1k1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>

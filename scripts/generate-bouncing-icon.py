@@ -114,19 +114,6 @@ def generate_svg_animation():
             f"  {frame['progress']:.2f}% {{ transform: translate({frame['x']:.2f}px, {frame['y']:.2f}px); }}"
         )
     
-    # Build icon change keyframes
-    icon_keyframes = []
-    current_icon = 0
-    for i, frame in enumerate(sampled_frames):
-        if frame['icon_index'] != current_icon or i == 0:
-            current_icon = frame['icon_index']
-            # Set visibility for this icon at this progress point
-            for icon_idx in range(len(ICON_SET)):
-                opacity = '1' if icon_idx == current_icon else '0'
-                icon_keyframes.append(
-                    f"  {frame['progress']:.2f}% {{ .icon-{icon_idx} {{ opacity: {opacity}; }} }}"
-                )
-    
     # Generate SVG
     svg_content = f'''<svg width="{CANVAS_WIDTH}" height="{CANVAS_HEIGHT}" xmlns="http://www.w3.org/2000/svg">
   <defs>

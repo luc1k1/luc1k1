@@ -10,7 +10,6 @@
   
 
 <div align="center">
-  <h3>🎮 Bouncing Animation</h3>
   <img src="bouncing-icon.svg" width="400" height="400" alt="Bouncing Icon Animation" />
 </div>
 

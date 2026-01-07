@@ -7,11 +7,7 @@
 ###  About Me
 
 -  Machine Learning Engineer  
--  18 y.o
--  CEO -  Eduva Labs
   
-
-
 
 
 

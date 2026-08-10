@@ -1,8 +1,8 @@
 <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(96)">
-      <stop offset="0%" style="stop-color:#ff9a9e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fecfef;stop-opacity:1" />
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(14)">
+      <stop offset="0%" style="stop-color:#a8edea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fed6e3;stop-opacity:1" />
     </linearGradient>
     
     <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
@@ -19,47 +19,47 @@
     
     <style>
       @keyframes bounce {
-  0.00% { transform: translate(336.52px, 256.75px); }
-  2.50% { transform: translate(347.02px, 291.36px); }
-  5.00% { transform: translate(289.59px, 325.97px); }
-  7.50% { transform: translate(232.15px, 360.58px); }
-  10.00% { transform: translate(174.71px, 346.93px); }
-  12.50% { transform: translate(117.27px, 312.32px); }
-  15.00% { transform: translate(59.83px, 277.71px); }
-  17.50% { transform: translate(56.80px, 243.10px); }
-  20.00% { transform: translate(114.24px, 208.49px); }
-  22.50% { transform: translate(171.68px, 173.87px); }
-  25.00% { transform: translate(229.12px, 139.26px); }
-  27.50% { transform: translate(286.56px, 104.65px); }
-  30.00% { transform: translate(344.00px, 70.04px); }
-  32.50% { transform: translate(339.37px, 35.43px); }
-  35.00% { transform: translate(281.93px, 57.69px); }
-  37.50% { transform: translate(224.49px, 92.30px); }
-  40.00% { transform: translate(167.05px, 126.91px); }
-  42.50% { transform: translate(109.61px, 161.52px); }
-  45.00% { transform: translate(52.17px, 196.13px); }
-  47.50% { transform: translate(64.46px, 230.74px); }
-  50.00% { transform: translate(121.90px, 265.35px); }
-  52.50% { transform: translate(179.34px, 299.96px); }
-  55.00% { transform: translate(236.78px, 334.57px); }
-  57.50% { transform: translate(294.22px, 369.18px); }
-  60.00% { transform: translate(351.66px, 337.70px); }
-  62.50% { transform: translate(331.71px, 303.09px); }
-  65.00% { transform: translate(274.27px, 268.48px); }
-  67.50% { transform: translate(216.83px, 233.87px); }
-  70.00% { transform: translate(159.39px, 199.26px); }
-  72.50% { transform: translate(101.95px, 164.65px); }
-  75.00% { transform: translate(44.51px, 130.03px); }
-  77.50% { transform: translate(72.12px, 95.42px); }
-  80.00% { transform: translate(129.56px, 60.81px); }
-  82.50% { transform: translate(187.00px, 32.31px); }
-  85.00% { transform: translate(244.44px, 66.92px); }
-  87.50% { transform: translate(301.88px, 101.53px); }
-  90.00% { transform: translate(359.32px, 136.14px); }
-  92.50% { transform: translate(324.05px, 170.75px); }
-  95.00% { transform: translate(266.61px, 205.36px); }
-  97.50% { transform: translate(209.17px, 239.97px); }
-  99.83% { transform: translate(155.56px, 272.27px); }
+  0.00% { transform: translate(113.93px, 118.15px); }
+  2.50% { transform: translate(73.35px, 62.45px); }
+  5.00% { transform: translate(32.77px, 52.28px); }
+  7.50% { transform: translate(65.17px, 107.98px); }
+  10.00% { transform: translate(105.75px, 163.68px); }
+  12.50% { transform: translate(146.33px, 219.38px); }
+  15.00% { transform: translate(186.91px, 275.08px); }
+  17.50% { transform: translate(227.50px, 330.78px); }
+  20.00% { transform: translate(268.08px, 355.15px); }
+  22.50% { transform: translate(308.66px, 299.45px); }
+  25.00% { transform: translate(349.24px, 243.75px); }
+  27.50% { transform: translate(351.06px, 188.05px); }
+  30.00% { transform: translate(310.48px, 132.35px); }
+  32.50% { transform: translate(269.90px, 76.65px); }
+  35.00% { transform: translate(229.32px, 37.43px); }
+  37.50% { transform: translate(188.74px, 93.13px); }
+  40.00% { transform: translate(148.16px, 148.83px); }
+  42.50% { transform: translate(107.57px, 204.53px); }
+  45.00% { transform: translate(66.99px, 260.23px); }
+  47.50% { transform: translate(32.71px, 315.93px); }
+  50.00% { transform: translate(73.29px, 370.00px); }
+  52.50% { transform: translate(113.87px, 314.30px); }
+  55.00% { transform: translate(154.45px, 258.60px); }
+  57.50% { transform: translate(195.03px, 202.90px); }
+  60.00% { transform: translate(235.61px, 147.20px); }
+  62.50% { transform: translate(276.19px, 91.50px); }
+  65.00% { transform: translate(316.77px, 35.80px); }
+  67.50% { transform: translate(357.36px, 78.27px); }
+  70.00% { transform: translate(342.95px, 133.97px); }
+  72.50% { transform: translate(302.36px, 189.67px); }
+  75.00% { transform: translate(261.78px, 245.37px); }
+  77.50% { transform: translate(221.20px, 301.07px); }
+  80.00% { transform: translate(180.62px, 356.77px); }
+  82.50% { transform: translate(140.04px, 329.15px); }
+  85.00% { transform: translate(99.46px, 273.45px); }
+  87.50% { transform: translate(58.88px, 217.75px); }
+  90.00% { transform: translate(40.82px, 162.05px); }
+  92.50% { transform: translate(81.40px, 106.35px); }
+  95.00% { transform: translate(121.98px, 50.65px); }
+  97.50% { transform: translate(162.57px, 63.42px); }
+  99.83% { transform: translate(200.44px, 115.41px); }
       }
       
       .icon-container {
@@ -73,7 +73,7 @@
       
       @keyframes icon-anim-0 {
         0.00% { opacity: 1; }
-        2.50% { opacity: 0; }
+        2.50% { opacity: 1; }
         5.00% { opacity: 0; }
         7.50% { opacity: 0; }
         10.00% { opacity: 0; }
@@ -111,8 +111,8 @@
         90.00% { opacity: 0; }
         92.50% { opacity: 0; }
         95.00% { opacity: 0; }
-        97.50% { opacity: 0; }
-        99.83% { opacity: 0; }
+        97.50% { opacity: 1; }
+        99.83% { opacity: 1; }
       }
       
       .icon-0 {
@@ -121,9 +121,9 @@
       
       @keyframes icon-anim-1 {
         0.00% { opacity: 0; }
-        2.50% { opacity: 1; }
+        2.50% { opacity: 0; }
         5.00% { opacity: 1; }
-        7.50% { opacity: 1; }
+        7.50% { opacity: 0; }
         10.00% { opacity: 0; }
         12.50% { opacity: 0; }
         15.00% { opacity: 0; }
@@ -171,11 +171,11 @@
         0.00% { opacity: 0; }
         2.50% { opacity: 0; }
         5.00% { opacity: 0; }
-        7.50% { opacity: 0; }
+        7.50% { opacity: 1; }
         10.00% { opacity: 1; }
         12.50% { opacity: 1; }
         15.00% { opacity: 1; }
-        17.50% { opacity: 0; }
+        17.50% { opacity: 1; }
         20.00% { opacity: 0; }
         22.50% { opacity: 0; }
         25.00% { opacity: 0; }
@@ -223,12 +223,12 @@
         10.00% { opacity: 0; }
         12.50% { opacity: 0; }
         15.00% { opacity: 0; }
-        17.50% { opacity: 1; }
+        17.50% { opacity: 0; }
         20.00% { opacity: 1; }
         22.50% { opacity: 1; }
         25.00% { opacity: 1; }
-        27.50% { opacity: 1; }
-        30.00% { opacity: 1; }
+        27.50% { opacity: 0; }
+        30.00% { opacity: 0; }
         32.50% { opacity: 0; }
         35.00% { opacity: 0; }
         37.50% { opacity: 0; }
@@ -275,8 +275,8 @@
         20.00% { opacity: 0; }
         22.50% { opacity: 0; }
         25.00% { opacity: 0; }
-        27.50% { opacity: 0; }
-        30.00% { opacity: 0; }
+        27.50% { opacity: 1; }
+        30.00% { opacity: 1; }
         32.50% { opacity: 1; }
         35.00% { opacity: 0; }
         37.50% { opacity: 0; }
@@ -380,10 +380,10 @@
         42.50% { opacity: 0; }
         45.00% { opacity: 0; }
         47.50% { opacity: 1; }
-        50.00% { opacity: 1; }
-        52.50% { opacity: 1; }
-        55.00% { opacity: 1; }
-        57.50% { opacity: 1; }
+        50.00% { opacity: 0; }
+        52.50% { opacity: 0; }
+        55.00% { opacity: 0; }
+        57.50% { opacity: 0; }
         60.00% { opacity: 0; }
         62.50% { opacity: 0; }
         65.00% { opacity: 0; }
@@ -428,13 +428,13 @@
         42.50% { opacity: 0; }
         45.00% { opacity: 0; }
         47.50% { opacity: 0; }
-        50.00% { opacity: 0; }
-        52.50% { opacity: 0; }
-        55.00% { opacity: 0; }
-        57.50% { opacity: 0; }
+        50.00% { opacity: 1; }
+        52.50% { opacity: 1; }
+        55.00% { opacity: 1; }
+        57.50% { opacity: 1; }
         60.00% { opacity: 1; }
-        62.50% { opacity: 0; }
-        65.00% { opacity: 0; }
+        62.50% { opacity: 1; }
+        65.00% { opacity: 1; }
         67.50% { opacity: 0; }
         70.00% { opacity: 0; }
         72.50% { opacity: 0; }
@@ -481,12 +481,12 @@
         55.00% { opacity: 0; }
         57.50% { opacity: 0; }
         60.00% { opacity: 0; }
-        62.50% { opacity: 1; }
-        65.00% { opacity: 1; }
+        62.50% { opacity: 0; }
+        65.00% { opacity: 0; }
         67.50% { opacity: 1; }
-        70.00% { opacity: 1; }
-        72.50% { opacity: 1; }
-        75.00% { opacity: 1; }
+        70.00% { opacity: 0; }
+        72.50% { opacity: 0; }
+        75.00% { opacity: 0; }
         77.50% { opacity: 0; }
         80.00% { opacity: 0; }
         82.50% { opacity: 0; }
@@ -532,9 +532,9 @@
         62.50% { opacity: 0; }
         65.00% { opacity: 0; }
         67.50% { opacity: 0; }
-        70.00% { opacity: 0; }
-        72.50% { opacity: 0; }
-        75.00% { opacity: 0; }
+        70.00% { opacity: 1; }
+        72.50% { opacity: 1; }
+        75.00% { opacity: 1; }
         77.50% { opacity: 1; }
         80.00% { opacity: 1; }
         82.50% { opacity: 0; }
@@ -588,7 +588,7 @@
         82.50% { opacity: 1; }
         85.00% { opacity: 1; }
         87.50% { opacity: 1; }
-        90.00% { opacity: 1; }
+        90.00% { opacity: 0; }
         92.50% { opacity: 0; }
         95.00% { opacity: 0; }
         97.50% { opacity: 0; }
@@ -636,11 +636,11 @@
         82.50% { opacity: 0; }
         85.00% { opacity: 0; }
         87.50% { opacity: 0; }
-        90.00% { opacity: 0; }
+        90.00% { opacity: 1; }
         92.50% { opacity: 1; }
         95.00% { opacity: 1; }
-        97.50% { opacity: 1; }
-        99.83% { opacity: 1; }
+        97.50% { opacity: 0; }
+        99.83% { opacity: 0; }
       }
       
       .icon-11 {

@@ -9,10 +9,6 @@
 -  Machine Learning Engineer  
   
 
-<div align="center">
-  <img src="bouncing-icon.svg" width="400" height="400" alt="Bouncing Icon Animation" />
-</div>
-
 
 <p align="center">
   <a href="https://twitter.com/strangertao">

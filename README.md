@@ -6,7 +6,7 @@
 
 ###  About Me
 
--  Machine Learning Engineer  
+-  Artificial Intelligence Engineer 
   
 
 

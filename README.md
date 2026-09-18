@@ -1,29 +1,6 @@
-<h1 align="center">🌌 Luc1k1</h1>
-
-
-
-
-
-###  About Me
-
--  Artificial Intelligence Engineer 
-  
-
-
-<p align="center">
-  <a href="https://twitter.com/strangertao">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FFFFFF">
-  </a>
-  <a href="mailto:leroyceo@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=yahoo&logoColor=FFFFFF">
-  </a>
-</p>
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luc1k1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+    <img width=300 src="main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+LUC1K1!" alt="Typing SVG" /></a>
 </div>
